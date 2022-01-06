@@ -1,0 +1,9 @@
+{
+    "name": "container vue",
+    "dockerComposeFile": [
+        "../../docker-compose.yml",
+    ],
+    "service": "vue",
+    "workspaceFolder": "/app",
+    "shutdownAction": "none"
+}
